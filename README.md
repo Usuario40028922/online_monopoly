@@ -1,2 +1,2 @@
-# online_monopoly
-An ambitious project of a online monoply-based game creation.
+# free_online_monopoly
+An ambitious project of a free to play online monoply-based game creation.
